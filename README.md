@@ -40,6 +40,7 @@ With a pinch of curiosity as my driving force, I delved deeper into programming.
 | Project                 | Description                  | Technologies    | 
 |-------------------------|------------------------------|-----------------|
 | [Study-Buddy](https://github.com/carolrs/study-buddy)              |MERN Stack application. Forum for study support | MERN, Openai api Javascrip |
+ [Nasa-data](https://github.com/carolrs/nasa-data)              |Web application that allows you to explore various aspects of space and astronomy |React, JavaScript, Nasa-API |
 | [acebook-clone](https://github.com/carolrs/acebook-mern-water-team)               |MERN Stack application. Facebook clone | MERN |
 | [Java-chess](https://github.com/carolrs/chess-system)            | Command line Java application that reproduces the movements of chess. | Java 8+ |
 | [Product Register System](https://github.com/carolrs/project-register) | Spring boot web application with a CRUD of products.                  | Java 8, Spring Boot, JPA, MySQL, maven |
