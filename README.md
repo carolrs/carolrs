@@ -41,6 +41,8 @@ With a pinch of curiosity as my driving force, I delved deeper into programming.
 |-------------------------|------------------------------|-----------------|
 | [Study-Buddy](https://github.com/carolrs/study-buddy)              |MERN Stack application. Forum for study support | MERN, Openai api Javascrip |
  [Nasa-data](https://github.com/carolrs/nasa-data)              |Web application that allows you to explore various aspects of space and astronomy |React, JavaScript, Nasa-API |
+|[news-article](https://github.com/carolrs/news-article)              | This project is a search application that utilizes the New York Times and OpenWeatherMap API. |React, NY Times API,OpenWeatherMap API.|
+|[art-exhibition](https://github.com/carolrs/art-exhibition)              | This is an Art Search app that allows users to search for artworks in the Rijksmuseum collection. |React,Rijksmuseum API.|
 | [acebook-clone](https://github.com/carolrs/acebook-mern-water-team)               |MERN Stack application. Facebook clone | MERN |
 | [Java-chess](https://github.com/carolrs/chess-system)            | Command line Java application that reproduces the movements of chess. | Java 8+ |
 | [Product Register System](https://github.com/carolrs/project-register) | Spring boot web application with a CRUD of products.                  | Java 8, Spring Boot, JPA, MySQL, maven |
@@ -82,12 +84,14 @@ In addition, my work has taught me the importance of adaptability and flexibilit
 ## Education
 
 #### Makers Academy (February 2023 to current)
-- Programming logic using Ruby concepts
-- Used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- OOP, TDD
-- Ruby
-- RSpec
 
+* Completed an intensive 16-week bootcamp, gaining foundational knowledge and hands-on experience in full-stack development.
+* Acquired strong skills in Ruby, Sinatra and RSpec bolstering my back-end development and testing capabilities .
+* Developed proficiency in database, SQL and MongoDB, enhancing my ability to handle data-driven applications.
+* Gained experience in JavaScript,Jest, React, Cypress and Node.js, strengthening my front-end, back-end development and testing skills for scalable web applications.
+* Worked on various personal and group projects, showcasing my ability to work independently and collaboratively.
+* The highlight of the course was the development of 'Study Buddy', an AI-enhanced educational platform.
+* Collaborated with a team to manage and complete Agile tickets, reinforcing my project management skills and experience in Agile methodologies.
 
 #### USP (University of São Paulo) (February to March 2022)
 _Python: Girls in programming -  Introduction to programming_ 
